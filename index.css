@@ -1,0 +1,22 @@
+header{
+    font: normal 15pt arial;
+    color: cornsilk;
+}
+
+
+
+div#box1, #box2, #box3, #box4, #box5, #box5, #box6, #box7 ,#box8 {
+background-color: rgb(198, 238, 52);
+height: 87px;
+width: 450px;
+margin: 50px;
+border-radius: 3px;
+font: normal 14pt arial;
+line-height: 41px;
+text-align: center;
+}
+
+body{
+    background-color: rgb(66, 41, 105);
+}
+
